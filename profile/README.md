@@ -24,8 +24,8 @@ are shared freely and impactful ideas can grow from concept to reality.
 
 <hr>
 
-*For more information and details, please check [CODE OF CONDUCT](./CODE_OF_CONDUCT.md), [CONTRIBUTIONS](./CONTRIBUTIONS.md),
-[ORGANIZATION](./ORGANIZATION.md) and [LICENSES](./LICENSES.md) documents. There are no rights that are being reserved with
+*For more information and details, please check [CODE OF CONDUCT](../CODE_OF_CONDUCT.md), [CONTRIBUTIONS](../CONTRIBUTIONS.md),
+[ORGANIZATION](../ORGANIZATION.md) and [LICENSES](../LICENSES.md) documents. There are no rights that are being reserved with
 any of our products, documents or projects. You (as the end user, company or organization) are allowed to copy, redistribute
 and modify our works only if the PPL-Mesa-2025 License conditions are met. To read our license, you can click
 [here](https://github.com/prospect-lab/Licenses/blob/main/PPL-Mesa-2025).*
